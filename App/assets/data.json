@@ -1,0 +1,15 @@
+{
+    "gold": {
+        "price": "3.669,24 EUR",
+        "change": "0,00 %0,00 EUR",
+        "timetable": "Zeitpunkt EUR |  USD\n\n\nVortag(01.01.2026): 3.669,24 EUR | 4.325,45 USD\n\n\nAktuell(02.01.2026): 3.669,24 EUR | 4.325,45 USD\n\n\nVeränderung: 0,00  EUR | 0,00  USD | 0,00%\n\n\nTageshoch(02.01.2026): 3.669,24 EUR | 4.325,45 USD\n\n\nTagestief(02.01.2026): 3.669,24 EUR | 4.325,45 USD\n\n\nPerformance(2026): -0,66% | -0,31% | -0,62%\n\n\nAllzeithoch(Schlusskurs): 3.851,65  EUR | 4.534,17  USD\n\n\nAllzeithoch(Intraday): 3.864,35  EUR | 4.549,38  USD",
+        "update": "je Feinunze (31,103 g)"
+    },
+    "silver": {
+        "price": "60,51 EUR",
+        "change": "0,01 %0,00 EUR",
+        "timetableSilver": "Zeitpunkt EUR |  USD\n\n\nVortag(01.01.2026): 60,51 EUR | 71,47 USD\n\n\nAktuell(02.01.2026): 60,51 EUR | 71,47 USD\n\n\nVeränderung: 0,00  EUR | 0,00  USD | -0,01%\n\n\nTageshoch(02.01.2026): 60,51 EUR | 71,47 USD\n\n\nTagestief(02.01.2026): 60,51 EUR | 71,47 USD\n\n\nPerformance(2026): -6,74% | -6,28% | -6,72%\n\n\nAllzeithoch(Schlusskurs): 67,36  EUR | 79,25  USD\n\n\nAllzeithoch(Intraday): 70,68  EUR | 83,29  USD",
+        "timetable": "Zeitpunkt EUR |  USD\n\n\nVortag(01.01.2026): 60,51 EUR | 71,47 USD\n\n\nAktuell(02.01.2026): 60,51 EUR | 71,47 USD\n\n\nVeränderung: 0,00  EUR | 0,00  USD | -0,01%\n\n\nTageshoch(02.01.2026): 60,51 EUR | 71,47 USD\n\n\nTagestief(02.01.2026): 60,51 EUR | 71,47 USD\n\n\nPerformance(2026): -6,74% | -6,28% | -6,72%\n\n\nAllzeithoch(Schlusskurs): 67,36  EUR | 79,25  USD\n\n\nAllzeithoch(Intraday): 70,68  EUR | 83,29  USD",
+        "update": "je Feinunze (31,103 g)"
+    }
+}
